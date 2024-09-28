@@ -11,7 +11,7 @@
 - 🍓 I'm ✨JK Flip-Flop✨ , and you can just call me 🎀**JKKJJJ**🎀;
 - 🥺 My *Myers–Briggs Type Indicator* personality type is **ENTJ**;
 - 💻 I'm fluent in Python, C/C++ and Verilog;
-- 🛠 I'm interested in Graph Generation, Data Science, Deep Learning and Machine Learning;
+- 🛠 I'm interested in Financial time series forecasting, Graph Generation, Time series data interpolation, Data Science, Deep Learning and Machine Learning;
 - 🍕 Oh, and I **absolutely love cookies**! 🍪
 - 🌈Also, I’m a huge fan of **JK uniforms** 🍭
 
