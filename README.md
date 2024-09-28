@@ -11,7 +11,7 @@
 - 🍓 I'm ✨JK Flip-Flop✨ , and you can just call me 🎀**JKKJJJ**🎀;
 - 🥺 My *Myers–Briggs Type Indicator* personality type is **ENTJ**;
 - 💻 I'm fluent in Python, C/C++ and Verilog;
-- 🛠 I'm interested in Financial time series forecasting, Graph Generation, Time series data interpolation, Data Science, Deep Learning and Machine Learning;
+- 🛠 I’m passionate about **financial time series forecasting** 💞, **graph generation** 🚀, **time series data interpolation** 🌸, **data science** 🍀, **deep learning** 🌺, and **machine learning** 🔆.
 - 🍕 Oh, and I **absolutely love cookies**! 🍪
 - 🌈Also, I’m a huge fan of **JK uniforms** 🍭
 
@@ -24,3 +24,16 @@ Major in **Computer Science and Technology**
 
 
 **P.S. Feel free to contact me at** 2252538@tongji.edu.cn.🎈
+
+
+
+
+
+
+
+
+
+
+
+
+
