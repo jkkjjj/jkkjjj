@@ -9,7 +9,6 @@
 ### **About Me**
 
 - 🍓 I'm ✨JK Flip-Flop✨ , and you can just call me 🎀**JKKJJJ**🎀;
-- 🥺 My *Myers–Briggs Type Indicator* personality type is **ENTJ**;
 - 💻 I'm fluent in Python, C/C++ and Verilog;
 - 🛠 I’m passionate about:  
   - 💞Financial Time Series Forecasting 💞  
