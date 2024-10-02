@@ -23,7 +23,7 @@
 
 ### **Time Line**
 
-- 🏫 **[2022.09 ~ 2026.07]** Guohao College of Tongji University _(Shanghai, China)_  
+- 🏫 **[2022.09 ~ 2026.07]** Tongji University _(Shanghai, China)_  
 Major in **Computer Science and Technology**
 
 
