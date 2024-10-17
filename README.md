@@ -13,7 +13,7 @@
 - 🛠 I’m passionate about:  
   - 💞Financial Time Series Forecasting 💞  
   - 🚀Graph Generation 🚀  
-  - 🍒Time Series Data Interpolation 🍒  
+  - 🍒Spatiotemporal Imputation  🍒  
   - 🚗Data Science 🚗  
   - ⚓Deep Learning ⚓  
   - 📮Machine Learning 📮  
