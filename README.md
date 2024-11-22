@@ -1,6 +1,6 @@
 ## Hi there 👋 This is 🎀JKKJJJ🎀 !!! <img align="right" src="https://komarev.com/ghpvc/?username=RayCorleone" />
 
-> **[CITY]** Shanghai, China *(Date of last update: 2024-09-14)*
+> **[CITY]** Shanghai, China *(Date of last update: 2024-11-22)*
 >
 > **[MOTTO]** Crescat scientia; vita excolatur
 
@@ -11,12 +11,11 @@
 - 🍓 I'm ✨JK Flip-Flop✨ , and you can just call me 🎀**JKKJJJ**🎀;
 - 💻 I'm fluent in Python, C/C++ and Verilog;
 - 🛠 I’m passionate about:  
-  - 💞Financial Time Series Forecasting 💞  
-  - 🚀Graph Generation 🚀  
-  - 🍒Spatiotemporal Imputation  🍒  
-  - 🚗Data Science 🚗  
-  - ⚓Deep Learning ⚓  
-  - 📮Machine Learning 📮  
+  - Efficient Multi-agent System
+  - Data Mining
+  - Graph Learning
+  - LLMs
+
 - 🍕 Oh, and I **absolutely love cookies**! 🍪
 - 🌈Also, I’m a huge fan of **JK uniforms** 🍭
 
