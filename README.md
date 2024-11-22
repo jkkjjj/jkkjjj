@@ -11,10 +11,10 @@
 - 🍓 I'm ✨JK Flip-Flop✨ , and you can just call me 🎀**JKKJJJ**🎀;
 - 💻 I'm fluent in Python, C/C++ and Verilog;
 - 🛠 I’m passionate about:  
-  - Efficient Multi-agent System
-  - Data Mining
-  - Graph Learning
-  - LLMs
+  - Efficient Multi-agent System ✨
+  - Data Mining 🚀
+  - Graph Learning 🌈
+  - LLMs 🎈
 
 - 🍕 Oh, and I **absolutely love cookies**! 🍪
 - 🌈Also, I’m a huge fan of **JK uniforms** 🍭
