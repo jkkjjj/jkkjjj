@@ -1,6 +1,6 @@
 ## Hi there 👋 This is 🎀JKKJJJ🎀 !!! <img align="right" src="https://komarev.com/ghpvc/?username=RayCorleone" />
 
-> **[CITY]** Shanghai, China *(Date of last update: 2024-11-22)*
+> **[CITY]** Shanghai, China *(Date of last update: 2024-11-26)*
 >
 > **[MOTTO]** Crescat scientia; vita excolatur
 
@@ -16,7 +16,7 @@
   - Graph Learning 🌈
   - LLMs 🎈
 
-- 🍕 Oh, and I **absolutely love cookies**! 🍪
+- 🍕 I **really love cookies**! 🍪
 - 🌈Also, I’m a huge fan of **JK uniforms** 🍭
 
 
