@@ -14,7 +14,7 @@
   - Efficient Multi-agent System ✨
   - Data Mining 🚀
   - Graph Learning 🌈
-  - LLMs 🎈
+  - LLM for Graph 🎈
 
 - 🍕 I **really love cookies**! 🍪
 - 🌈Also, I’m a huge fan of **JK uniforms** 🍭
