@@ -31,6 +31,6 @@ Major in **Computer Science and Technology(Elite Class)**
 
 🧠I love [music](https://www.youtube.com/watch?v=HYsz1hP0BFo&list=RDMMHYsz1hP0BFo&index=1)
 
-👑My favorite color is 🎀red🎀. Red leaves a strong impression of life, passsion🚀, vitality🍭, and brilliance🌈-- all of which resonate deeply with my outlook on this fancinating world✨.
+👑My favorite color is 🎀red🎀. Red leaves a strong impression of life🌟, passsion🚀, vitality🍭, and brilliance🌈-- all of which resonate deeply with my outlook on this fancinating world✨.
 
 🥕**Feel free to contact me at** 2252538@tongji.edu.cn.🎈
