@@ -15,7 +15,7 @@
   - Graph Learning 🌈
 
 - 🍕 I **really love cookies**! 🍪
-- 🌈Also, I’m a huge fan of **JK uniforms** 🍭
+- 🌈 I’m a huge fan of **JK uniforms** 🍭
 
 
 ### **Time Line**
