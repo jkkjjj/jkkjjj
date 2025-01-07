@@ -10,7 +10,7 @@
 
 - 🍓 I'm ✨JK Flip-Flop✨ , and you can just call me 🎀**JKKJJJ**🎀;
 - 🛠 I’m passionate about:  
-  - Efficient Multi-agent System ✨
+  - Efficient Multi-Agent System ✨
   - Data Mining 🚀
   - Graph Learning 🌈
 
