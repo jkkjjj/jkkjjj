@@ -5,4 +5,4 @@ I cosplay as a [soldier](https://www.bilibili.com/video/BV1wE411L7gk/) and a [sh
 
 I love observing and exploring things to uncover the underlying patterns behind them.
 
-My favorite color is red because it represents energy and happiness, all of which resonate deeply with my outlook on this fascinating world.
+My favorite color is red because it symbolizes energy, vibrancy, and happiness, all of which resonate deeply with my outlook on this fascinating world.
